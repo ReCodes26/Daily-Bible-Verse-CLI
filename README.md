@@ -12,6 +12,9 @@ I made this simple tool to practice creating CLI's with Node.js. It uses a publi
 npm install -g .
 ```
 
+## Showcase
+![Bible CLI Showcase](https://github.com/ReCodes26/Daily-Bible-Verse-CLI/blob/main/showcase/bible-cli-showcase.gif)
+
 ## Usage
 
 ```bash
