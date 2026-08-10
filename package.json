@@ -1,7 +1,7 @@
 {
   "name": "daily-bible-verse-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get a daily Bible verse from a public domain Bible version.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
     "cli"
   ],
   "author": "Recodes26",
-  "license": "ISC",
+  "license": "MIT",
   "type": "module",
   "dependencies": {
     "chalk": "^6.0.0",
